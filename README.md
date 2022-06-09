@@ -1,5 +1,4 @@
 # cleaned
 Bootstrap, jquery
 
-
-live : https://mahadihasancoder.github.io/cleaned/
+[live](https://mahadidev7.github.io/cleaned/#clean)
